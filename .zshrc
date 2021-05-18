@@ -8,7 +8,7 @@ plugins=(
 	git
 	zsh-autosuggestions
 	vscode
-      sudo
+      	sudo
 	history
 	web-search
 	extract
