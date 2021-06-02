@@ -148,5 +148,9 @@ augroup exe_cute
     autocmd FileType python nnoremap <buffer> <localleader>r
         \   :sp<CR> :term python3 %<CR> :startinsert<CR> 
 
+    " execute java code
+    autocmd FileType java nnoremap <buffer> <localleader>r
+        \   :sp<CR> :term java %<CR> :startinsert<CR>
+        
 augroup END
 
