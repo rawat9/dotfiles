@@ -6,6 +6,7 @@
 - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 - [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
 
 ### Colorschemes
 - [nord-vim](https://github.com/arcticicestudio/nord-vim)
