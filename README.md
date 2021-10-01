@@ -1,5 +1,3 @@
-# dotfiles
-
 ### Neovim Plugins
 - [vim-surround](https://github.com/tpope/vim-surround)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
