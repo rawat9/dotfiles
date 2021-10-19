@@ -6,6 +6,7 @@
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+- [vim-clap](https://github.com/liuchengxu/vim-clap)
 
 
 ### Colorschemes
