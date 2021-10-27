@@ -7,7 +7,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [vim-clap](https://github.com/liuchengxu/vim-clap)
-
+- [ultisnips](https://github.com/SirVer/ultisnips) | [vim-snippets](https://github.com/honza/vim-snippets)
 
 ### Colorschemes
 - [nord-vim](https://github.com/arcticicestudio/nord-vim)
